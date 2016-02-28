@@ -1,3 +1,13 @@
+##scripts for games I play##
+
+###list###
+* MTG_getImgPkg.js
+
+
+
+** some script for games I play **
+
+
 make a shell
 
 curl url：
